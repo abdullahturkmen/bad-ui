@@ -2,4 +2,4 @@
 
 Bu repoda bad ui çalışmalar serisini listeleyeceğim
 
-- [https://abdullahturkmen.github.io/bad-ui/braille-alphabet-clock/](Braille Alphabet Clock)
+- [Braille Alphabet Clock](https://abdullahturkmen.github.io/bad-ui/braille-alphabet-clock/)
